@@ -1,2 +1,6 @@
-# photolith-analysis-example
-Example analsysis of photolithography performance comparing pattern to imaged device.
+# Photolithography performance analysis
+Rowan Temple<br>
+Jan 2025<br>
+
+Example analsysis of photolithography performance. Code compares reference 
+pattern to imaged device.
